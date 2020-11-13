@@ -1,3 +1,9 @@
 [submodule "Write-An-ERC-20-Smart-Contract-With-Ink/substrate-node-template"]
 	path = Write-An-ERC-20-Smart-Contract-With-Ink/substrate-node-template
 	url = https://github.com/substrate-developer-hub/substrate-node-template.git
+[submodule "substrate-front-end-template"]
+	path = substrate-front-end-template
+	url = https://github.com/substrate-developer-hub/substrate-front-end-template.git
+[submodule "Write-An-ERC-20-Smart-Contract-With-Ink/substrate-front-end-template"]
+	path = Write-An-ERC-20-Smart-Contract-With-Ink/substrate-front-end-template
+	url = https://github.com/substrate-developer-hub/substrate-front-end-template.git
